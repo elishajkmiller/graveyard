@@ -1,4 +1,4 @@
-# graveyard# graveyard
+# graveyard
 
 Speculative projects that went as far as they went.
 
